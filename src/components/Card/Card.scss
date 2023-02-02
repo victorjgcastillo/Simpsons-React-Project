@@ -1,0 +1,25 @@
+.simpsons-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    -webkit-border-radius: 10px 50px 10px 30px;
+    border-radius: 10px 50px 10px 30px;
+    border-width:2px;
+    border-style: solid;
+    border-color:black;     
+    gap: 20px;
+    background-color: darkkhaki;
+}
+
+.img-coment{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    height: 250px;
+    width: 180px;
+    
+}
+
